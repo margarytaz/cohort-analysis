@@ -1,0 +1,601 @@
+user_pseudo_id,category,country,subscription_start,subscription_end,subscription_end_week_start
+1099668.062471190,desktop,United States,11/1/2020,11/2/2020,11/1/2020
+1136556.022501230,mobile,Peru,11/1/2020,11/3/2020,11/1/2020
+1271863.737160090,mobile,India,11/1/2020,11/6/2020,11/1/2020
+1014060.110019150,desktop,United States,11/1/2020,11/9/2020,11/8/2020
+1828432.169242540,desktop,United States,11/8/2020,11/9/2020,11/8/2020
+1433392.619754160,desktop,United States,11/8/2020,11/10/2020,11/8/2020
+1168515.231270370,mobile,United States,11/1/2020,11/11/2020,11/8/2020
+1595680.651661630,desktop,India,11/15/2020,11/16/2020,11/15/2020
+1550859.560500210,desktop,Canada,11/1/2020,11/17/2020,11/15/2020
+2213964.417576680,desktop,United States,11/15/2020,11/17/2020,11/15/2020
+1830871.779530430,mobile,United States,11/8/2020,11/18/2020,11/15/2020
+1329077.872496770,desktop,United States,11/8/2020,11/18/2020,11/15/2020
+1240926.123099790,desktop,United States,11/15/2020,11/18/2020,11/15/2020
+1569222.722898440,mobile,Slovakia,11/15/2020,11/19/2020,11/15/2020
+2312968.674597580,desktop,United Kingdom,11/15/2020,11/20/2020,11/15/2020
+1048273.385535540,desktop,United Kingdom,11/1/2020,11/21/2020,11/15/2020
+2220756.167962000,desktop,United States,11/8/2020,11/21/2020,11/15/2020
+1766215.657616730,mobile,India,11/8/2020,11/23/2020,11/22/2020
+2145702.334645590,mobile,United States,11/8/2020,11/23/2020,11/22/2020
+1163883.992972680,desktop,India,11/15/2020,11/23/2020,11/22/2020
+1814237.715241400,desktop,United States,11/22/2020,11/23/2020,11/22/2020
+1134387.565866160,mobile,United Kingdom,11/1/2020,11/24/2020,11/22/2020
+1018077.607136160,desktop,United States,11/15/2020,11/24/2020,11/22/2020
+1498451.138260360,mobile,China,11/22/2020,11/24/2020,11/22/2020
+1005694.583434840,desktop,India,11/1/2020,11/25/2020,11/22/2020
+2310041.380862830,mobile,Austria,11/8/2020,11/25/2020,11/22/2020
+1013442.500038760,mobile,United States,11/1/2020,11/26/2020,11/22/2020
+1709610.924836390,desktop,Turkey,11/8/2020,11/26/2020,11/22/2020
+2330556.947460620,desktop,Indonesia,11/22/2020,11/26/2020,11/22/2020
+1014271.474732060,desktop,United Kingdom,11/1/2020,11/27/2020,11/22/2020
+2068420.335525700,mobile,Canada,11/15/2020,11/27/2020,11/22/2020
+2300890.779170100,mobile,Belarus,11/22/2020,11/27/2020,11/22/2020
+2211097.818660560,desktop,Belgium,11/22/2020,11/27/2020,11/22/2020
+1019516.655722120,desktop,Canada,11/1/2020,11/28/2020,11/22/2020
+1104932.402044790,desktop,Australia,11/15/2020,11/28/2020,11/22/2020
+2193359.486621750,mobile,United States,11/22/2020,11/28/2020,11/22/2020
+2490870.253205440,mobile,United States,11/22/2020,11/28/2020,11/22/2020
+1456886.272159150,desktop,Brazil,11/8/2020,11/30/2020,11/29/2020
+2308925.446735880,desktop,United States,11/22/2020,11/30/2020,11/29/2020
+1484942.990767800,desktop,Mexico,11/22/2020,11/30/2020,11/29/2020
+1485850.590431190,desktop,United Kingdom,11/22/2020,11/30/2020,11/29/2020
+1590652.672614970,desktop,United States,11/29/2020,11/30/2020,11/29/2020
+1724436.934927480,mobile,India,11/29/2020,11/30/2020,11/29/2020
+1142826.613199330,mobile,Canada,11/1/2020,12/1/2020,11/29/2020
+1478811.556390930,desktop,United States,11/8/2020,12/1/2020,11/29/2020
+1077731.361780080,mobile,India,11/15/2020,12/1/2020,11/29/2020
+1490250.327151560,desktop,India,11/22/2020,12/1/2020,11/29/2020
+1118506.808766350,mobile,United States,11/29/2020,12/1/2020,11/29/2020
+1518727.616189450,desktop,Italy,11/29/2020,12/1/2020,11/29/2020
+1151520.438702470,desktop,Canada,11/1/2020,12/2/2020,11/29/2020
+1156447.252395200,mobile,United States,11/1/2020,12/2/2020,11/29/2020
+1200331.627902270,desktop,Australia,11/8/2020,12/2/2020,11/29/2020
+1092411.820093430,mobile,India,11/15/2020,12/2/2020,11/29/2020
+1520710.199154010,tablet,United States,11/22/2020,12/2/2020,11/29/2020
+1169437.553221330,desktop,United States,11/1/2020,12/3/2020,11/29/2020
+1248439.864341380,desktop,India,11/8/2020,12/3/2020,11/29/2020
+1097746.086501470,desktop,United States,11/15/2020,12/3/2020,11/29/2020
+1537484.158557160,desktop,Canada,11/22/2020,12/3/2020,11/29/2020
+1180921.165843540,desktop,Portugal,11/1/2020,12/4/2020,11/29/2020
+1296227.371541750,desktop,United States,11/8/2020,12/4/2020,11/29/2020
+1103734.146371730,desktop,United States,11/15/2020,12/4/2020,11/29/2020
+1545622.852865990,mobile,United States,11/22/2020,12/4/2020,11/29/2020
+1554067.675991520,desktop,Taiwan,11/22/2020,12/4/2020,11/29/2020
+1132393.425019610,mobile,United States,11/15/2020,12/5/2020,11/29/2020
+1561271.718211810,mobile,China,11/22/2020,12/5/2020,11/29/2020
+1641158.535748200,mobile,United States,11/29/2020,12/5/2020,11/29/2020
+1452937.818730190,mobile,United States,11/1/2020,12/7/2020,12/6/2020
+1734629.485272360,desktop,Ireland,11/8/2020,12/7/2020,12/6/2020
+1134454.965437670,desktop,Brazil,11/15/2020,12/7/2020,12/6/2020
+1575436.581522090,mobile,Finland,11/22/2020,12/7/2020,12/6/2020
+1577255.510466440,desktop,Philippines,11/22/2020,12/7/2020,12/6/2020
+1577832.196356950,desktop,Argentina,11/22/2020,12/7/2020,12/6/2020
+1145919.802314720,mobile,United States,11/29/2020,12/7/2020,12/6/2020
+1019755.150599040,desktop,United States,12/6/2020,12/7/2020,12/6/2020
+1030532.880086650,desktop,United States,12/6/2020,12/7/2020,12/6/2020
+1039112.585388200,mobile,Serbia,12/6/2020,12/7/2020,12/6/2020
+1085207.380778270,mobile,Uruguay,12/6/2020,12/7/2020,12/6/2020
+1459546.631526380,mobile,United States,11/1/2020,12/8/2020,12/6/2020
+1741035.709442200,mobile,United States,11/8/2020,12/8/2020,12/6/2020
+1139355.369664940,tablet,United States,11/15/2020,12/8/2020,12/6/2020
+1156590.008127720,desktop,Germany,11/15/2020,12/8/2020,12/6/2020
+1599456.178945220,desktop,United States,11/22/2020,12/8/2020,12/6/2020
+1609407.155068800,desktop,Chile,11/22/2020,12/8/2020,12/6/2020
+1630763.639910590,desktop,United Kingdom,11/22/2020,12/8/2020,12/6/2020
+1668813.761210540,mobile,United States,11/22/2020,12/8/2020,12/6/2020
+1676676.776218210,desktop,India,11/22/2020,12/8/2020,12/6/2020
+1682325.291310990,desktop,United States,11/22/2020,12/8/2020,12/6/2020
+1404771.186024120,mobile,United States,11/29/2020,12/8/2020,12/6/2020
+1456690.827128620,desktop,United States,12/6/2020,12/8/2020,12/6/2020
+1463692.689129480,mobile,Germany,11/1/2020,12/9/2020,12/6/2020
+1510286.755056780,mobile,United States,11/1/2020,12/9/2020,12/6/2020
+1758086.876850690,mobile,United States,11/8/2020,12/9/2020,12/6/2020
+1159522.028072130,mobile,United States,11/15/2020,12/9/2020,12/6/2020
+1683058.222707430,mobile,Taiwan,11/22/2020,12/9/2020,12/6/2020
+1020085.409804910,mobile,Macao,11/29/2020,12/9/2020,12/6/2020
+1665847.230832890,desktop,United States,12/6/2020,12/9/2020,12/6/2020
+1827510.171602820,desktop,United States,12/6/2020,12/9/2020,12/6/2020
+1474295.160391140,desktop,United States,11/1/2020,12/10/2020,12/6/2020
+1511634.455651670,mobile,United States,11/1/2020,12/10/2020,12/6/2020
+1778202.596732850,desktop,India,11/8/2020,12/10/2020,12/6/2020
+1166336.876251840,desktop,South Africa,11/15/2020,12/10/2020,12/6/2020
+1683979.992266510,mobile,United States,11/22/2020,12/10/2020,12/6/2020
+1027505.650240400,desktop,Slovakia,11/29/2020,12/10/2020,12/6/2020
+1438269.216152700,desktop,Croatia,12/6/2020,12/10/2020,12/6/2020
+1891607.632407690,desktop,United States,12/6/2020,12/10/2020,12/6/2020
+1479672.513385370,mobile,United States,11/1/2020,12/11/2020,12/6/2020
+1184762.858650660,desktop,United States,11/15/2020,12/11/2020,12/6/2020
+1684993.156087200,desktop,United States,11/22/2020,12/11/2020,12/6/2020
+1037270.653563100,desktop,Canada,11/29/2020,12/11/2020,12/6/2020
+1539940.525361040,mobile,Canada,12/6/2020,12/11/2020,12/6/2020
+1484033.118399020,desktop,United States,11/1/2020,12/12/2020,12/6/2020
+1767608.529383290,desktop,Costa Rica,11/22/2020,12/12/2020,12/6/2020
+1055118.840152550,mobile,Canada,11/29/2020,12/12/2020,12/6/2020
+1055763.850426200,desktop,India,11/29/2020,12/12/2020,12/6/2020
+1297430.741911230,mobile,United States,12/13/2020,,Ongoing
+1181275.478275290,mobile,India,11/1/2020,,Ongoing
+1303239.607718080,desktop,Ireland,11/1/2020,,Ongoing
+1529761.004938850,mobile,China,11/1/2020,,Ongoing
+1421531.272614250,desktop,Chile,11/1/2020,,Ongoing
+1025449.058385840,desktop,Spain,11/1/2020,,Ongoing
+1264630.483708840,desktop,Canada,11/1/2020,,Ongoing
+1021793.738183900,tablet,United States,11/1/2020,,Ongoing
+1038168.379313070,desktop,United States,11/1/2020,,Ongoing
+1041501.642342230,desktop,United States,11/1/2020,,Ongoing
+1055429.253966610,desktop,United States,11/1/2020,,Ongoing
+1059048.109785280,desktop,India,11/1/2020,,Ongoing
+1061353.240131240,desktop,Japan,11/1/2020,,Ongoing
+1068962.242231970,desktop,Turkey,11/1/2020,,Ongoing
+1076509.689604920,desktop,United States,11/1/2020,,Ongoing
+1083435.578628540,desktop,United States,11/1/2020,,Ongoing
+1120828.745035190,tablet,Italy,11/1/2020,,Ongoing
+1124403.862062800,desktop,United States,11/1/2020,,Ongoing
+1127534.637427230,desktop,United States,11/1/2020,,Ongoing
+1131277.232379950,mobile,Canada,11/1/2020,,Ongoing
+1131911.149559130,mobile,United States,11/1/2020,,Ongoing
+1133103.259962660,desktop,United States,11/1/2020,,Ongoing
+1181621.901830100,desktop,India,11/1/2020,,Ongoing
+1192565.363493720,desktop,India,11/1/2020,,Ongoing
+1200411.350618670,desktop,United States,11/1/2020,,Ongoing
+1202440.233227650,desktop,Canada,11/1/2020,,Ongoing
+1210485.829735150,desktop,Poland,11/1/2020,,Ongoing
+1213541.172504390,desktop,United Kingdom,11/1/2020,,Ongoing
+1239328.599681580,desktop,Turkey,11/1/2020,,Ongoing
+1247189.469436790,desktop,Canada,11/1/2020,,Ongoing
+1259482.380788160,desktop,Mexico,11/1/2020,,Ongoing
+1314633.320036160,mobile,Mexico,11/1/2020,,Ongoing
+1323250.751355680,mobile,South Africa,11/1/2020,,Ongoing
+1323679.336454350,mobile,Hong Kong,11/1/2020,,Ongoing
+1326237.642553860,mobile,Czechia,11/1/2020,,Ongoing
+1338058.601276380,mobile,United States,11/1/2020,,Ongoing
+1338949.619670550,desktop,United States,11/1/2020,,Ongoing
+1343580.608356520,desktop,India,11/1/2020,,Ongoing
+1358307.350675230,mobile,Australia,11/1/2020,,Ongoing
+1369675.302965040,desktop,Argentina,11/1/2020,,Ongoing
+1370781.713859220,desktop,India,11/1/2020,,Ongoing
+1376694.167279390,desktop,Canada,11/1/2020,,Ongoing
+1390791.775430650,mobile,United States,11/1/2020,,Ongoing
+1391276.870565950,desktop,India,11/1/2020,,Ongoing
+1392086.625662370,desktop,United Kingdom,11/1/2020,,Ongoing
+1405798.396626520,desktop,Indonesia,11/1/2020,,Ongoing
+1409853.191727770,mobile,United States,11/1/2020,,Ongoing
+1413832.536952380,mobile,United States,11/1/2020,,Ongoing
+1426415.910495160,desktop,France,11/1/2020,,Ongoing
+1437546.556360570,mobile,Germany,11/1/2020,,Ongoing
+1452335.508385740,desktop,Japan,11/1/2020,,Ongoing
+1494018.518313370,desktop,Canada,11/1/2020,,Ongoing
+1494049.380559040,desktop,United States,11/1/2020,,Ongoing
+1508851.397532640,mobile,United Kingdom,11/1/2020,,Ongoing
+1535812.672246920,desktop,Germany,11/1/2020,,Ongoing
+1556928.930570590,mobile,United States,11/1/2020,,Ongoing
+1557095.174693880,mobile,United States,11/1/2020,,Ongoing
+1558339.643068090,mobile,United States,11/1/2020,,Ongoing
+1573028.082192390,tablet,United States,11/1/2020,,Ongoing
+1583021.205373730,mobile,France,11/1/2020,,Ongoing
+1592448.442924590,desktop,United States,11/1/2020,,Ongoing
+1611443.384085780,desktop,Ireland,11/1/2020,,Ongoing
+1612497.433226930,mobile,United Kingdom,11/1/2020,,Ongoing
+1613659.684911560,desktop,Canada,11/1/2020,,Ongoing
+1641407.912385240,desktop,Turkey,11/1/2020,,Ongoing
+1654393.515432210,desktop,United States,11/1/2020,,Ongoing
+1664623.179737630,mobile,Canada,11/1/2020,,Ongoing
+1670164.005007910,mobile,Indonesia,11/1/2020,,Ongoing
+1677916.418782420,mobile,United States,11/1/2020,,Ongoing
+1680690.070652450,desktop,United States,11/1/2020,,Ongoing
+1685028.727557250,desktop,Pakistan,11/1/2020,,Ongoing
+1701274.166821980,mobile,Canada,11/1/2020,,Ongoing
+1707104.926844580,mobile,United States,11/1/2020,,Ongoing
+1197804.175277420,desktop,United States,11/8/2020,,Ongoing
+1326642.708030080,desktop,Peru,11/8/2020,,Ongoing
+1443366.829237710,desktop,United States,11/8/2020,,Ongoing
+1717204.766328020,desktop,United States,11/8/2020,,Ongoing
+1788923.892624640,desktop,China,11/8/2020,,Ongoing
+1805300.600417250,desktop,France,11/8/2020,,Ongoing
+1806039.573747340,desktop,India,11/8/2020,,Ongoing
+1809991.618371240,mobile,Czechia,11/8/2020,,Ongoing
+1817570.139634910,mobile,Brazil,11/8/2020,,Ongoing
+1818164.591351700,desktop,United States,11/8/2020,,Ongoing
+1818616.298680650,tablet,Bahrain,11/8/2020,,Ongoing
+1821017.922738960,desktop,United States,11/8/2020,,Ongoing
+1832198.022699630,desktop,United States,11/8/2020,,Ongoing
+1838662.894086040,desktop,United States,11/8/2020,,Ongoing
+1839173.495273500,tablet,Spain,11/8/2020,,Ongoing
+1854579.135508540,mobile,United States,11/8/2020,,Ongoing
+1859374.354779880,desktop,Canada,11/8/2020,,Ongoing
+1862350.355490550,mobile,United States,11/8/2020,,Ongoing
+1877824.847004680,desktop,Lebanon,11/8/2020,,Ongoing
+1889753.176328890,desktop,France,11/8/2020,,Ongoing
+1899446.976229370,mobile,United States,11/8/2020,,Ongoing
+1174860.732083990,desktop,United States,11/8/2020,,Ongoing
+1196539.393262130,mobile,United States,11/8/2020,,Ongoing
+1219682.402139500,mobile,United Kingdom,11/8/2020,,Ongoing
+1227277.123601420,mobile,Colombia,11/8/2020,,Ongoing
+1237865.362412170,mobile,Japan,11/8/2020,,Ongoing
+1267590.872467670,desktop,United States,11/8/2020,,Ongoing
+1289579.350884330,desktop,Indonesia,11/8/2020,,Ongoing
+1289610.985996700,desktop,United States,11/8/2020,,Ongoing
+1359571.254280770,desktop,United States,11/8/2020,,Ongoing
+1361186.682636400,mobile,India,11/8/2020,,Ongoing
+1365518.320092190,desktop,United States,11/8/2020,,Ongoing
+1368841.559500160,desktop,India,11/8/2020,,Ongoing
+1449712.309892470,desktop,Canada,11/8/2020,,Ongoing
+1469737.268196560,desktop,Brazil,11/8/2020,,Ongoing
+1474915.760337870,desktop,Italy,11/8/2020,,Ongoing
+1480507.133686920,desktop,United States,11/8/2020,,Ongoing
+1497949.927850010,desktop,Indonesia,11/8/2020,,Ongoing
+1499070.877683430,desktop,Canada,11/8/2020,,Ongoing
+1530401.440370930,desktop,Germany,11/8/2020,,Ongoing
+1533037.073363330,desktop,United States,11/8/2020,,Ongoing
+1579147.709470640,mobile,United States,11/8/2020,,Ongoing
+1593456.453504170,mobile,Poland,11/8/2020,,Ongoing
+1612986.541552490,desktop,United States,11/8/2020,,Ongoing
+1626651.976969340,mobile,Singapore,11/8/2020,,Ongoing
+1634679.323224760,mobile,Taiwan,11/8/2020,,Ongoing
+1641107.178532180,desktop,United States,11/8/2020,,Ongoing
+1659071.782667760,desktop,Germany,11/8/2020,,Ongoing
+1672367.896910670,desktop,United States,11/8/2020,,Ongoing
+1672858.899129120,mobile,United States,11/8/2020,,Ongoing
+1688920.265483030,desktop,Japan,11/8/2020,,Ongoing
+1703029.383442810,mobile,United Kingdom,11/8/2020,,Ongoing
+1712680.402759570,mobile,United States,11/8/2020,,Ongoing
+2149797.160264030,desktop,United States,11/8/2020,,Ongoing
+2173971.484350580,mobile,Thailand,11/8/2020,,Ongoing
+2174764.701153550,desktop,United States,11/8/2020,,Ongoing
+2176099.375234230,desktop,Mexico,11/8/2020,,Ongoing
+2193075.380740510,desktop,Poland,11/8/2020,,Ongoing
+2215981.321273320,desktop,United States,11/8/2020,,Ongoing
+2218360.622277410,mobile,Greece,11/8/2020,,Ongoing
+2219347.485025920,mobile,Taiwan,11/8/2020,,Ongoing
+2223530.551430360,desktop,Spain,11/8/2020,,Ongoing
+2223836.461608750,desktop,United States,11/8/2020,,Ongoing
+2230783.209275440,desktop,India,11/8/2020,,Ongoing
+2270892.606804190,mobile,United States,11/8/2020,,Ongoing
+2278212.001322250,mobile,Italy,11/8/2020,,Ongoing
+2290011.341713020,tablet,Italy,11/8/2020,,Ongoing
+2294493.489982980,desktop,United States,11/8/2020,,Ongoing
+2308371.598015250,desktop,India,11/8/2020,,Ongoing
+2338631.195675540,desktop,United States,11/8/2020,,Ongoing
+1382700.586698270,mobile,United States,11/15/2020,,Ongoing
+1472078.381192140,desktop,Ecuador,11/15/2020,,Ongoing
+2252988.673161840,desktop,Singapore,11/15/2020,,Ongoing
+1023953.984224170,mobile,India,11/15/2020,,Ongoing
+1028797.693834810,desktop,United States,11/15/2020,,Ongoing
+1032714.293388290,desktop,United States,11/15/2020,,Ongoing
+1045890.764746690,mobile,United States,11/15/2020,,Ongoing
+1059934.961023650,desktop,United States,11/15/2020,,Ongoing
+1068018.411887910,mobile,United States,11/15/2020,,Ongoing
+1133955.580699890,desktop,Brazil,11/15/2020,,Ongoing
+1197937.458200420,mobile,India,11/15/2020,,Ongoing
+1223041.131130250,mobile,United States,11/15/2020,,Ongoing
+1225414.580666950,tablet,United States,11/15/2020,,Ongoing
+1257894.383796590,mobile,United States,11/15/2020,,Ongoing
+1287286.834474290,desktop,United States,11/15/2020,,Ongoing
+1288301.611916300,mobile,South Korea,11/15/2020,,Ongoing
+1295191.905437190,desktop,United States,11/15/2020,,Ongoing
+1302727.486176420,mobile,United States,11/15/2020,,Ongoing
+1316040.460070040,desktop,United States,11/15/2020,,Ongoing
+1344042.587760140,desktop,United States,11/15/2020,,Ongoing
+1355440.866431470,mobile,United States,11/15/2020,,Ongoing
+1366218.639096220,desktop,Indonesia,11/15/2020,,Ongoing
+1367585.666017520,desktop,Germany,11/15/2020,,Ongoing
+1370065.720294290,desktop,United States,11/15/2020,,Ongoing
+1400458.634811490,desktop,Canada,11/15/2020,,Ongoing
+1413271.952351600,desktop,India,11/15/2020,,Ongoing
+1414938.843877020,tablet,United States,11/15/2020,,Ongoing
+1415721.871947770,mobile,India,11/15/2020,,Ongoing
+1434329.961520760,mobile,New Zealand,11/15/2020,,Ongoing
+1456382.214833170,desktop,United States,11/15/2020,,Ongoing
+1464210.681555060,mobile,Indonesia,11/15/2020,,Ongoing
+1466116.955938710,tablet,United Kingdom,11/15/2020,,Ongoing
+1474849.049525640,mobile,Taiwan,11/15/2020,,Ongoing
+1493938.154721190,tablet,United States,11/15/2020,,Ongoing
+1501902.979741320,desktop,Tunisia,11/15/2020,,Ongoing
+1504020.766103400,mobile,Sri Lanka,11/15/2020,,Ongoing
+1551088.034109200,desktop,Colombia,11/15/2020,,Ongoing
+1566386.252477870,desktop,United States,11/15/2020,,Ongoing
+1580362.746885160,desktop,France,11/15/2020,,Ongoing
+1627000.043135770,mobile,United Kingdom,11/15/2020,,Ongoing
+1630691.977732320,desktop,United States,11/15/2020,,Ongoing
+1685670.595010730,mobile,United States,11/15/2020,,Ongoing
+1690625.486355420,desktop,Turkey,11/15/2020,,Ongoing
+1918757.116197890,desktop,Morocco,11/15/2020,,Ongoing
+1953320.442658610,desktop,United States,11/15/2020,,Ongoing
+1953933.503862050,mobile,United States,11/15/2020,,Ongoing
+1972290.428348510,desktop,United States,11/15/2020,,Ongoing
+1988031.941447660,mobile,Taiwan,11/15/2020,,Ongoing
+1997923.630773730,desktop,United States,11/15/2020,,Ongoing
+2025791.580284390,desktop,United States,11/15/2020,,Ongoing
+2039147.838433350,desktop,United States,11/15/2020,,Ongoing
+2040020.015466050,mobile,Canada,11/15/2020,,Ongoing
+2047969.313632770,desktop,United States,11/15/2020,,Ongoing
+2057859.776637470,desktop,France,11/15/2020,,Ongoing
+2070079.922143110,desktop,China,11/15/2020,,Ongoing
+2075276.870965230,mobile,United Kingdom,11/15/2020,,Ongoing
+2080369.147918370,desktop,Poland,11/15/2020,,Ongoing
+2109493.210078960,desktop,Singapore,11/15/2020,,Ongoing
+2111604.973404410,mobile,United States,11/15/2020,,Ongoing
+2114227.341247510,desktop,Netherlands,11/15/2020,,Ongoing
+2128956.982892080,mobile,India,11/15/2020,,Ongoing
+2146541.489843890,mobile,India,11/15/2020,,Ongoing
+2153397.396004170,mobile,United States,11/15/2020,,Ongoing
+2167362.673152260,desktop,Bangladesh,11/15/2020,,Ongoing
+2189292.065131930,desktop,United Kingdom,11/15/2020,,Ongoing
+2189960.691609600,mobile,United States,11/15/2020,,Ongoing
+2201472.459987530,desktop,United States,11/15/2020,,Ongoing
+2206779.865170230,desktop,United States,11/15/2020,,Ongoing
+2207886.117148530,desktop,United States,11/15/2020,,Ongoing
+2209752.640626180,desktop,United States,11/15/2020,,Ongoing
+2241251.150717170,desktop,India,11/15/2020,,Ongoing
+2251966.088771900,desktop,Taiwan,11/15/2020,,Ongoing
+2280654.498630010,mobile,United Kingdom,11/15/2020,,Ongoing
+2310662.486299300,mobile,Poland,11/15/2020,,Ongoing
+2331466.216095210,mobile,Australia,11/15/2020,,Ongoing
+1561825.008156670,desktop,United States,11/22/2020,,Ongoing
+1777251.239206770,mobile,Switzerland,11/22/2020,,Ongoing
+1780911.626724350,desktop,Spain,11/22/2020,,Ongoing
+1794243.057600580,desktop,United States,11/22/2020,,Ongoing
+1819545.742348630,mobile,Taiwan,11/22/2020,,Ongoing
+1824797.270189590,desktop,United States,11/22/2020,,Ongoing
+1833049.299335790,desktop,United States,11/22/2020,,Ongoing
+1835182.739009800,mobile,United States,11/22/2020,,Ongoing
+1860104.312644680,desktop,United States,11/22/2020,,Ongoing
+1876861.286721400,mobile,Australia,11/22/2020,,Ongoing
+1877464.632615540,mobile,South Korea,11/22/2020,,Ongoing
+1884619.559314440,desktop,United States,11/22/2020,,Ongoing
+1885197.042252800,mobile,Russia,11/22/2020,,Ongoing
+1908144.791935840,desktop,United Kingdom,11/22/2020,,Ongoing
+1909943.145229720,mobile,Brazil,11/22/2020,,Ongoing
+1925809.714898060,mobile,Italy,11/22/2020,,Ongoing
+1940348.324693840,desktop,United States,11/22/2020,,Ongoing
+1948462.367680900,mobile,Russia,11/22/2020,,Ongoing
+1954050.947430750,mobile,Pakistan,11/22/2020,,Ongoing
+1977670.420928740,desktop,United States,11/22/2020,,Ongoing
+2020354.738537860,desktop,United States,11/22/2020,,Ongoing
+2043466.517161940,desktop,Portugal,11/22/2020,,Ongoing
+2051090.788276770,mobile,South Korea,11/22/2020,,Ongoing
+2053000.612780730,desktop,United States,11/22/2020,,Ongoing
+2053105.585924250,mobile,United States,11/22/2020,,Ongoing
+2057075.360127530,mobile,Germany,11/22/2020,,Ongoing
+2065088.566207770,desktop,India,11/22/2020,,Ongoing
+2068132.974364610,mobile,Canada,11/22/2020,,Ongoing
+2071196.657799950,desktop,United States,11/22/2020,,Ongoing
+2072492.290775740,desktop,Malta,11/22/2020,,Ongoing
+2085045.551526420,mobile,Ireland,11/22/2020,,Ongoing
+2098049.323222740,mobile,United Kingdom,11/22/2020,,Ongoing
+2102215.116971560,desktop,United States,11/22/2020,,Ongoing
+2110588.801918240,desktop,United Kingdom,11/22/2020,,Ongoing
+2130678.724719720,desktop,United States,11/22/2020,,Ongoing
+2144288.015697450,desktop,United States,11/22/2020,,Ongoing
+2171445.489871080,desktop,United States,11/22/2020,,Ongoing
+2175659.397103080,mobile,United States,11/22/2020,,Ongoing
+2176256.390587010,mobile,United States,11/22/2020,,Ongoing
+2177881.278634860,mobile,United States,11/22/2020,,Ongoing
+2187164.400856960,desktop,Canada,11/22/2020,,Ongoing
+2221992.717316160,desktop,United Kingdom,11/22/2020,,Ongoing
+2238159.071894190,mobile,Australia,11/22/2020,,Ongoing
+2246821.646964680,mobile,United Kingdom,11/22/2020,,Ongoing
+2249313.676737300,mobile,China,11/22/2020,,Ongoing
+2257797.572161170,desktop,United States,11/22/2020,,Ongoing
+2307331.598415900,desktop,United States,11/22/2020,,Ongoing
+2330025.648869940,desktop,Israel,11/22/2020,,Ongoing
+2347639.251198610,tablet,Canada,11/22/2020,,Ongoing
+2354675.612453010,mobile,China,11/22/2020,,Ongoing
+2368585.679062000,desktop,Sweden,11/22/2020,,Ongoing
+2369699.550050780,mobile,United States,11/22/2020,,Ongoing
+2377836.476944210,mobile,India,11/22/2020,,Ongoing
+2392346.183639310,desktop,Taiwan,11/22/2020,,Ongoing
+2397019.262255980,tablet,Taiwan,11/22/2020,,Ongoing
+2402154.225842060,mobile,Brazil,11/22/2020,,Ongoing
+2406890.539765000,desktop,India,11/22/2020,,Ongoing
+2407478.790034310,mobile,United States,11/22/2020,,Ongoing
+2414876.714265590,desktop,Canada,11/22/2020,,Ongoing
+2424937.135198900,mobile,United States,11/22/2020,,Ongoing
+2447316.052538250,desktop,United States,11/22/2020,,Ongoing
+2458063.254116760,desktop,Canada,11/22/2020,,Ongoing
+2460305.067786820,mobile,United Kingdom,11/22/2020,,Ongoing
+2465438.304906880,desktop,Canada,11/22/2020,,Ongoing
+2470356.500536130,desktop,Belgium,11/22/2020,,Ongoing
+2475879.004921960,mobile,Norway,11/22/2020,,Ongoing
+2481753.776362820,desktop,United States,11/22/2020,,Ongoing
+2484705.722551850,desktop,United States,11/22/2020,,Ongoing
+2532316.520378030,desktop,United States,11/22/2020,,Ongoing
+2540078.308825870,desktop,United States,11/22/2020,,Ongoing
+2548269.373529960,desktop,Australia,11/22/2020,,Ongoing
+2569731.767935230,desktop,United Kingdom,11/22/2020,,Ongoing
+2581747.124352790,desktop,Spain,11/22/2020,,Ongoing
+2585570.914331700,desktop,Austria,11/22/2020,,Ongoing
+2586594.793167950,mobile,Canada,11/22/2020,,Ongoing
+2594336.619363270,desktop,China,11/22/2020,,Ongoing
+2600295.978469530,desktop,United Kingdom,11/22/2020,,Ongoing
+2603854.923408500,desktop,India,11/22/2020,,Ongoing
+2604021.197118180,desktop,Indonesia,11/22/2020,,Ongoing
+2610105.431571230,mobile,India,11/22/2020,,Ongoing
+2618526.077945340,mobile,United States,11/22/2020,,Ongoing
+2619018.625101610,desktop,United States,11/22/2020,,Ongoing
+2625054.349135340,desktop,Canada,11/22/2020,,Ongoing
+2626634.036884180,desktop,India,11/22/2020,,Ongoing
+2647787.997466240,desktop,Brazil,11/22/2020,,Ongoing
+2650247.528445230,desktop,United States,11/22/2020,,Ongoing
+2655109.803771500,desktop,United States,11/22/2020,,Ongoing
+1061553.041043620,desktop,United States,11/29/2020,,Ongoing
+1072671.942795630,mobile,United States,11/29/2020,,Ongoing
+1080795.784535720,mobile,Belgium,11/29/2020,,Ongoing
+1086645.208327390,mobile,Brazil,11/29/2020,,Ongoing
+1088530.133040200,desktop,Slovenia,11/29/2020,,Ongoing
+1099207.806281050,mobile,United States,11/29/2020,,Ongoing
+1112990.074377460,mobile,Australia,11/29/2020,,Ongoing
+1115826.728759390,desktop,United States,11/29/2020,,Ongoing
+1120304.152874170,desktop,India,11/29/2020,,Ongoing
+1142495.368527890,mobile,Vietnam,11/29/2020,,Ongoing
+1146529.869828670,mobile,Canada,11/29/2020,,Ongoing
+1155453.735735640,desktop,Poland,11/29/2020,,Ongoing
+1157260.253605520,mobile,Japan,11/29/2020,,Ongoing
+1173139.676012060,desktop,Canada,11/29/2020,,Ongoing
+1173654.601822030,mobile,Philippines,11/29/2020,,Ongoing
+1198284.219049190,mobile,United States,11/29/2020,,Ongoing
+1203787.262824210,mobile,Thailand,11/29/2020,,Ongoing
+1231625.844366870,desktop,United States,11/29/2020,,Ongoing
+1249388.342840980,mobile,India,11/29/2020,,Ongoing
+1261180.914065510,desktop,Canada,11/29/2020,,Ongoing
+1263804.494091320,desktop,Canada,11/29/2020,,Ongoing
+1273527.182757740,desktop,Singapore,11/29/2020,,Ongoing
+1278104.683852850,mobile,United States,11/29/2020,,Ongoing
+1300303.758592370,mobile,United States,11/29/2020,,Ongoing
+1318698.643093150,desktop,United States,11/29/2020,,Ongoing
+1319488.578034970,desktop,United States,11/29/2020,,Ongoing
+1325323.064771910,desktop,Pakistan,11/29/2020,,Ongoing
+1333105.284367610,desktop,United States,11/29/2020,,Ongoing
+1334125.814919490,desktop,United States,11/29/2020,,Ongoing
+1342083.172510390,mobile,India,11/29/2020,,Ongoing
+1344816.603445270,mobile,Kazakhstan,11/29/2020,,Ongoing
+1346380.431238820,desktop,United States,11/29/2020,,Ongoing
+1367986.343186580,desktop,Italy,11/29/2020,,Ongoing
+1369364.040882020,desktop,United States,11/29/2020,,Ongoing
+1377471.991531000,mobile,United States,11/29/2020,,Ongoing
+1378396.582893690,desktop,China,11/29/2020,,Ongoing
+1380234.226641890,desktop,United States,11/29/2020,,Ongoing
+1389683.702137770,desktop,Canada,11/29/2020,,Ongoing
+1396169.937116450,desktop,United States,11/29/2020,,Ongoing
+1438013.049658450,mobile,United States,11/29/2020,,Ongoing
+1465118.337584680,desktop,France,11/29/2020,,Ongoing
+1466887.335164200,mobile,United States,11/29/2020,,Ongoing
+1467153.652198440,desktop,United States,11/29/2020,,Ongoing
+1468116.898189190,mobile,Canada,11/29/2020,,Ongoing
+1491618.840659370,mobile,United States,11/29/2020,,Ongoing
+1498673.267832130,desktop,India,11/29/2020,,Ongoing
+1506460.170749030,desktop,Taiwan,11/29/2020,,Ongoing
+1507311.562657800,desktop,India,11/29/2020,,Ongoing
+1508257.065036110,desktop,Taiwan,11/29/2020,,Ongoing
+1510131.944850890,desktop,United States,11/29/2020,,Ongoing
+1512370.618334480,mobile,Greece,11/29/2020,,Ongoing
+1523095.737461250,desktop,Japan,11/29/2020,,Ongoing
+1523988.900140630,desktop,United States,11/29/2020,,Ongoing
+1532739.292420480,desktop,United States,11/29/2020,,Ongoing
+1535800.971422530,mobile,United States,11/29/2020,,Ongoing
+1536851.493070760,desktop,United Kingdom,11/29/2020,,Ongoing
+1543165.618604690,desktop,United Kingdom,11/29/2020,,Ongoing
+1550317.203093660,desktop,United States,11/29/2020,,Ongoing
+1551686.455912150,mobile,Switzerland,11/29/2020,,Ongoing
+1553948.348288920,desktop,Canada,11/29/2020,,Ongoing
+1567345.555659460,mobile,United States,11/29/2020,,Ongoing
+1570479.300423630,desktop,United States,11/29/2020,,Ongoing
+1572194.472702250,desktop,Canada,11/29/2020,,Ongoing
+1575485.535864470,mobile,United States,11/29/2020,,Ongoing
+1579377.789316820,desktop,United States,11/29/2020,,Ongoing
+1593274.608996380,desktop,Slovakia,11/29/2020,,Ongoing
+1594630.978015960,desktop,United States,11/29/2020,,Ongoing
+1611891.141568800,mobile,Mexico,11/29/2020,,Ongoing
+1635719.821855380,desktop,United States,11/29/2020,,Ongoing
+1637656.153053550,desktop,Mexico,11/29/2020,,Ongoing
+1639812.135038600,desktop,India,11/29/2020,,Ongoing
+1667822.577690010,desktop,United States,11/29/2020,,Ongoing
+1672492.071247400,mobile,Sweden,11/29/2020,,Ongoing
+1706945.083996660,mobile,South Korea,11/29/2020,,Ongoing
+1715410.998011690,mobile,Mexico,11/29/2020,,Ongoing
+1719039.922154130,desktop,Sweden,11/29/2020,,Ongoing
+1720207.431209180,mobile,United Kingdom,11/29/2020,,Ongoing
+1729446.524488510,desktop,India,11/29/2020,,Ongoing
+1741410.339406200,desktop,Singapore,11/29/2020,,Ongoing
+1742080.512206470,desktop,Taiwan,11/29/2020,,Ongoing
+1444866.858332590,mobile,United Kingdom,12/6/2020,,Ongoing
+1484748.127383310,desktop,United States,12/6/2020,,Ongoing
+1686851.272848840,mobile,United States,12/6/2020,,Ongoing
+1687447.656489610,desktop,Turkey,12/6/2020,,Ongoing
+1748588.757300360,mobile,United States,12/6/2020,,Ongoing
+1796615.761536370,mobile,United States,12/6/2020,,Ongoing
+1893503.162267050,mobile,Singapore,12/6/2020,,Ongoing
+1117204.842724820,mobile,India,12/6/2020,,Ongoing
+1038086.254500490,desktop,Ukraine,12/6/2020,,Ongoing
+1042416.510353360,desktop,Argentina,12/6/2020,,Ongoing
+1043582.820937570,desktop,Australia,12/6/2020,,Ongoing
+1046376.023769520,mobile,United States,12/6/2020,,Ongoing
+1056516.414505910,mobile,United States,12/6/2020,,Ongoing
+1068553.341467580,mobile,Italy,12/6/2020,,Ongoing
+1080926.615292120,desktop,Brazil,12/6/2020,,Ongoing
+1101429.129546600,desktop,France,12/6/2020,,Ongoing
+1121499.832405710,desktop,United States,12/6/2020,,Ongoing
+1158582.614116890,desktop,Philippines,12/6/2020,,Ongoing
+1171863.060766750,mobile,United States,12/6/2020,,Ongoing
+1176134.249944350,desktop,India,12/6/2020,,Ongoing
+1178452.713618890,desktop,United States,12/6/2020,,Ongoing
+1181199.270259230,desktop,United States,12/6/2020,,Ongoing
+1184263.371574770,desktop,Canada,12/6/2020,,Ongoing
+1187218.815160390,desktop,South Korea,12/6/2020,,Ongoing
+1196928.255026610,mobile,Belgium,12/6/2020,,Ongoing
+1201560.330436330,desktop,Brazil,12/6/2020,,Ongoing
+1218020.957541440,mobile,Philippines,12/6/2020,,Ongoing
+1228811.813337240,mobile,Pakistan,12/6/2020,,Ongoing
+1237015.703855650,mobile,Canada,12/6/2020,,Ongoing
+1259140.918187470,mobile,United States,12/6/2020,,Ongoing
+1278743.651081030,desktop,United States,12/6/2020,,Ongoing
+1281097.826824940,mobile,Indonesia,12/6/2020,,Ongoing
+1281834.918877090,desktop,United States,12/6/2020,,Ongoing
+1308205.303952210,desktop,United States,12/6/2020,,Ongoing
+1319478.802645710,desktop,Taiwan,12/6/2020,,Ongoing
+1324309.510313540,desktop,United States,12/6/2020,,Ongoing
+1331304.491297550,mobile,United States,12/6/2020,,Ongoing
+1347186.557895720,desktop,India,12/6/2020,,Ongoing
+1364820.471957990,mobile,India,12/6/2020,,Ongoing
+1371217.336320500,desktop,United States,12/6/2020,,Ongoing
+1372287.193767750,desktop,United Kingdom,12/6/2020,,Ongoing
+1385441.389302350,mobile,United States,12/6/2020,,Ongoing
+1386573.211578950,desktop,Australia,12/6/2020,,Ongoing
+1391938.010686700,mobile,United Kingdom,12/6/2020,,Ongoing
+1394889.129678980,desktop,United States,12/6/2020,,Ongoing
+1418779.847779320,desktop,United States,12/6/2020,,Ongoing
+1423214.924077980,desktop,United States,12/6/2020,,Ongoing
+1430004.195809400,desktop,Canada,12/6/2020,,Ongoing
+1435347.087403730,mobile,United States,12/6/2020,,Ongoing
+1454452.149327100,mobile,Lebanon,12/6/2020,,Ongoing
+1477999.641180600,mobile,China,12/6/2020,,Ongoing
+1484576.304720510,mobile,Canada,12/6/2020,,Ongoing
+1494674.338992990,mobile,United States,12/6/2020,,Ongoing
+1495445.993210600,desktop,United States,12/6/2020,,Ongoing
+1504468.315943810,desktop,United States,12/6/2020,,Ongoing
+1515810.234237300,desktop,United States,12/6/2020,,Ongoing
+1530413.521851970,mobile,South Korea,12/6/2020,,Ongoing
+1532914.908430820,mobile,Hungary,12/6/2020,,Ongoing
+1537744.937230060,desktop,Canada,12/6/2020,,Ongoing
+1540419.652634780,mobile,Honduras,12/6/2020,,Ongoing
+1550291.722335870,desktop,Canada,12/6/2020,,Ongoing
+1551788.312967750,mobile,United Kingdom,12/6/2020,,Ongoing
+1553266.450656230,desktop,Peru,12/6/2020,,Ongoing
+1563548.258017650,mobile,France,12/6/2020,,Ongoing
+1564554.160597070,desktop,United States,12/6/2020,,Ongoing
+1568465.292191310,mobile,United States,12/6/2020,,Ongoing
+1579595.538718970,mobile,Japan,12/6/2020,,Ongoing
+1589531.311559570,mobile,China,12/6/2020,,Ongoing
+1614037.458452730,mobile,Malaysia,12/6/2020,,Ongoing
+1626636.298047720,mobile,United States,12/6/2020,,Ongoing
+1651366.074943730,desktop,United States,12/6/2020,,Ongoing
+1655984.812156150,desktop,Norway,12/6/2020,,Ongoing
+1662245.197285970,mobile,India,12/6/2020,,Ongoing
+1675680.736743100,mobile,Canada,12/6/2020,,Ongoing
+1750179.630603070,desktop,United States,12/6/2020,,Ongoing
+1771448.015807220,desktop,Canada,12/6/2020,,Ongoing
+1815378.800583310,mobile,United States,12/6/2020,,Ongoing
+1831250.832131370,desktop,United States,12/6/2020,,Ongoing
+1860064.122841090,mobile,Belgium,12/6/2020,,Ongoing
+1892707.722494120,mobile,United States,12/6/2020,,Ongoing
+1899211.660217580,desktop,United States,12/6/2020,,Ongoing
+1204012.282970000,desktop,Brazil,12/13/2020,,Ongoing
+1205920.910462720,desktop,Taiwan,12/13/2020,,Ongoing
+1216803.118830090,desktop,India,12/13/2020,,Ongoing
+1217696.035184600,desktop,Canada,12/13/2020,,Ongoing
+1218510.259445750,desktop,Canada,12/13/2020,,Ongoing
+1245521.567259010,desktop,United States,12/13/2020,,Ongoing
+1258848.523260140,desktop,France,12/13/2020,,Ongoing
+1272711.206404340,desktop,United States,12/13/2020,,Ongoing
+1275330.438530620,mobile,Colombia,12/13/2020,,Ongoing
+1285718.646557860,mobile,Netherlands,12/13/2020,,Ongoing
+1288804.481790340,desktop,India,12/13/2020,,Ongoing
+1305962.761347290,desktop,India,12/13/2020,,Ongoing
+1306597.867439910,desktop,United States,12/13/2020,,Ongoing
+1309623.430007300,mobile,Peru,12/13/2020,,Ongoing
+1315760.020039840,desktop,United States,12/13/2020,,Ongoing
+1320624.792886700,desktop,Spain,12/13/2020,,Ongoing
+1334457.248511720,mobile,India,12/13/2020,,Ongoing
+1344632.020983500,mobile,United States,12/13/2020,,Ongoing
+1349818.257104090,desktop,United States,12/13/2020,,Ongoing
+1353974.544935210,mobile,United States,12/13/2020,,Ongoing
