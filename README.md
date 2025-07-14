@@ -8,7 +8,7 @@ The analysis utilizes customer subscription data to define cohorts based on thei
 
 ---
 
-
+![Cohort analysis table](screenshots/cohort_analysis.png)
 
 ## Key Findings & Insights 💡
 
@@ -39,7 +39,7 @@ The cohort analysis revealed several critical patterns in customer behavior:
 
 ## Repository Structure 📂
 
-* `data/cohort_data.csv`: The cleaned dataset used for this analysis.
+* `data/cohort_dataset.csv`: The cleaned dataset used for this analysis.
 * [Google Sheets File with Insights](https://docs.google.com/spreadsheets/d/1zLM6Rs6ivgknKJu5-tor10ElLz3pjz_5dyc6FOGdl6s/edit?gid=1005723545#gid=1005723545)
 
 ---
